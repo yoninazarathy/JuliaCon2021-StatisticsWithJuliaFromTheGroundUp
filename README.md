@@ -23,4 +23,4 @@ notebook()
 ```
 The first time you run `notebook` you may be asked if to install `Conda`. Recommended to hit `y`.
 
-5. In the Jupyter envionrment that opens in your web browser, navigate to the correct folder, open the *Workshop.ipynb* file, and run the first few cells. These cells will install the needed packages in the enviornment for the workshop.
+5. In the Jupyter envionrment that opens in your web browser, navigate to the correct folder, open the *Workshop.ipynb* file, and run the first few cells up to the section `Why Julia?`. These cells will install the needed packages in the enviornment for the workshop. This will take some time but only needs to be run once.
