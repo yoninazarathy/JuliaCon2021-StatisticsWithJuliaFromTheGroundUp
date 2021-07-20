@@ -19,8 +19,8 @@ then hit backspace to exit the package manager.
 4. Start Jupyter Notebook with:
 ```
 using IJulia
-notebook(dir=@__DIR__)
+notebook()
 ```
-The first time you run `notebook` you may be asked if to install `conda`. Recommended to hit `y`.
+The first time you run `notebook` you may be asked if to install `Conda`. Recommended to hit `y`.
 
-5. In the Jupyter Notebook open the *Workshop.ipynb* file and run the first few cells. These cells will install the needed packages in the enviornment for the workshop.
+5. In the Jupyter envionrment that opens in your web browser, navigate to the correct folder, open the *Workshop.ipynb* file, and run the first few cells. These cells will install the needed packages in the enviornment for the workshop.
