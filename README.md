@@ -6,7 +6,7 @@ This is a workshop prepared for [JuliaCon2021](https://juliacon.org/2021/). See 
 
 In order to run the workshop make sure that you have Julia executable installed (it was tested under Julia 1.6.0 and 1.6.2).
 
-One way to run the workshop is to run as follows:
+One way to run the workshop is to run as follows (see also video below):
 1. Clone this [workshop repository](https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp) to a local folder on your computer (or download the zip file).
 2. Start Julia.
 3. If you don't have IJulia installed install it via (`]` puts you in package manager mode):
@@ -29,9 +29,10 @@ You can also consider:
 - A version of the repository with [all output](https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp/blob/master/Workshop-with-output.ipynb) or look at it in [nbviewer](https://nbviewer.jupyter.org/github/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp/blob/master/Workshop-with-output.ipynb#home).
 
 
-
 Some key links:
 * [JuliCon 2021](https://juliacon.org/2021/)
 * [YouTube link to the workshop](https://www.youtube.com/watch?v=IlPoU5Yr2QI).
 * [A nearly parallel workshop on DataFrames.jl](https://pretalx.com/juliacon2021/talk/FXZXMB/)
 * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJleqSITuRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
